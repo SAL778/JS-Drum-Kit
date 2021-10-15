@@ -7,4 +7,4 @@ Sound files taken from samplefocus.com, included in the sounds folder.
 Background image - Bohemian Rhapsody Wallpaper.
 
 \
-P.S. Ideal Zoom is 70 to 70%
+P.S. Ideal Zoom is 70% to 80%
